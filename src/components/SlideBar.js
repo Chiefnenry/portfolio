@@ -29,7 +29,7 @@ export default function Slidebar() {
               src={require("../assets/myimages/chiefnenry.jpg")}
               alt="Charles I Omosegbon"
               title="Charles activity"
-              className="rounded-[1000px] border-solid cursor-pointer h-[170px] border-[8px] border-stone-600 min-h-fit mx-auto  max-w-[190px]"
+              className=" border-solid cursor-pointer h-[170px] border-[5px] border-stone-600 min-h-fit mx-auto"
             />
             <h3 className="text-white name py-4 font-medium ">
               Charles I Omosegbon

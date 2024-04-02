@@ -24,14 +24,14 @@ export default function Contact() {
       process.env;
 
     const templateParams = {
-      username: username.value,
-      email: email.value,
+      user_name: username.value,
+      user_email: email.value,
       message: message.value,
     };
 
     emailjs
       .send(
-        REACT_APP_SERVICEID,
+       REACT_APP_SERVICEID,
         REACT_APP_TEMPLATE,
         templateParams,
         REACT_APP_PUBLICKEY
