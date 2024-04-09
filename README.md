@@ -24,7 +24,11 @@ This is a repository for my personal portfolio website, showcasing my skills, pr
 
 ## Projects Page :
 
+<<<<<<< HEAD
 <img width="960" alt="image" src="https://drive.google.com/file/d/1KFlvdUW4Q2HonPOW6wpxcLjaM8MHB1eA/view">
+=======
+<img width="960" alt="image" src="[https://drive.google.com/file/d/1KFlvdUW4Q2HonPOW6wpxcLjaM8MHB1eA/view?usp=drive_link](https://drive.google.com/file/d/1KFlvdUW4Q2HonPOW6wpxcLjaM8MHB1eA/view?usp=sharing)">
+>>>>>>> cdb718a6f9f5de09ca7758a3fdfa9de7ffdfc872
 
 ## Contact Page :
 
