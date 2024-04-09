@@ -221,7 +221,7 @@ export default function Contact() {
                 title="Linkedin"
                 onClick={() =>
                   window.open(
-                    "http://www.linkedin.com/in/charles-omosegbon-7bb706298",
+                    "https://www.linkedin.com/in/charles-i-omosegbon-275a41302",
                     "_blank"
                   )
                 }
