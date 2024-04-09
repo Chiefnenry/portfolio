@@ -42,7 +42,7 @@ This is a repository for my personal portfolio website, showcasing my skills, pr
 
 To run the website locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/daniel-jebarson/daniel-jebarson.github.io.git`
+1. Clone this repository to your local machine using `git clone https://github.com/Chiefnenry/portfolio`
 2. Navigate to the project's directory: `cd daniel-jebarson.github.io`
 3. Then install packages and run it using the below commands
 
