@@ -12,27 +12,23 @@ This is a repository for my personal portfolio website, showcasing my skills, pr
 
 ## Home Page :
 
-<img width="960" alt="image" src="https://drive.google.com/file/d/1pyb-0uVKP0pdYcg4DGcxb-4OmN4fWyqs/view">
+<img width="960" alt="image" src="https://drive.google.com/file/d/1pyb-0uVKP0pdYcg4DGcxb-4OmN4fWyqs/view?usp=drive_link">
 
 ## About Me Page :
 
-<img width="960" alt="image" src="https://drive.google.com/file/d/1vIxJ1AbT_J6IUzeN3msdSwWkaigF8-7z/view">
+<img width="960" alt="image" src="https://drive.google.com/file/d/1vIxJ1AbT_J6IUzeN3msdSwWkaigF8-7z/view?usp=drive_link">
 
 ## Resume Page :
 
-<img width="960" alt="image" src="https://drive.google.com/file/d/1gezXasCgCA_XEyNqqoSHEhmywwPjUFv9/view">
+<img width="960" alt="image" src="https://drive.google.com/file/d/1gezXasCgCA_XEyNqqoSHEhmywwPjUFv9/view?usp=drive_link">
 
 ## Projects Page :
 
-<<<<<<< HEAD
-<img width="960" alt="image" src="https://drive.google.com/file/d/1KFlvdUW4Q2HonPOW6wpxcLjaM8MHB1eA/view">
-=======
-<img width="960" alt="image" src="[https://drive.google.com/file/d/1KFlvdUW4Q2HonPOW6wpxcLjaM8MHB1eA/view?usp=drive_link](https://drive.google.com/file/d/1KFlvdUW4Q2HonPOW6wpxcLjaM8MHB1eA/view?usp=sharing)">
->>>>>>> cdb718a6f9f5de09ca7758a3fdfa9de7ffdfc872
+<img width="960" alt="image" src="https://drive.google.com/file/d/1KFlvdUW4Q2HonPOW6wpxcLjaM8MHB1eA/view?usp=drive_link">
 
 ## Contact Page :
 
-<img width="957" alt="image" src="https://drive.google.com/file/d/1HTGrJGE-LL5ZlwMMXKDce7WKqXPFqTf_/view">
+<img width="957" alt="image" src="https://drive.google.com/file/d/1HTGrJGE-LL5ZlwMMXKDce7WKqXPFqTf_/view?usp=drive_link">
 
 ## Technologies Used
 
