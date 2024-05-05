@@ -59,33 +59,33 @@ export const projects = [
     code: "https://github.com/Chiefnenry/OtpInput/commit/79200fb4f4a02963bc2682aa9bca35501a420147",
   },
   
-  // {
-  //   title: "You-Farm",
-  //   desc: "An app made with NextJs, Machine Learning and ExpressJs to help farmers to sell their crops without intermediate. It also suggests which crops are needed for the specific soil.",
-  //   tags: [
-  //     {
-  //       name: "NextJs",
-  //       color: "red-600",
-  //     },
-  //     {
-  //       name: "MaterialUI",
-  //       color: "green-600",
-  //     },
-  //     {
-  //       name: "ExpressJs",
-  //       color: "yellow-600",
-  //     },
-  //     {
-  //       name: "FireBase",
-  //       color: "blue-800",
-  //     },
-  //     {
-  //       name: "Machine Learning",
-  //       color: "orange-600",
-  //     },
-  //   ],
-  //   img: "youfarm.webp",
-  //   link: "https://github.com/code-cracked/you-farm",
-  //   code: "https://github.com/code-cracked/you-farm",
-  // },
+  {
+    title: "Event-Planing",
+    desc: "An app made with HTML, CSS and JavaScript to help my client get to sell their works without intermediate. It also helps to know where they are getting next project from.",
+    tags: [
+      {
+        name: "HTML",
+        color: "red-600",
+      },
+      {
+        name: "CSS",
+        color: "green-600",
+      },
+      {
+        name: "JavaScript",
+        color: "yellow-600",
+      },
+      // {
+      //   name: "FireBase",
+      //   color: "blue-800",
+      // },
+      // {
+      //   name: "Machine Learning",
+      //   color: "orange-600",
+      // },
+    ],
+    img: "event.png",
+    link: "https://foymediaevent.com/",
+    code: "https://github.com/Chiefnenry/foymediaeventplanner/commit/1ddf62793ae35f006d50aa963a17bdfdcbf1c970",
+  },
 ];
