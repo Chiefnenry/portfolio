@@ -50,7 +50,7 @@ export default function Slidebar() {
               scroll("#");
             }}
           >
-            <p title="Home Page"> Home</p>
+           Home
           </NavLink>
         </p>
         <p
@@ -67,7 +67,7 @@ export default function Slidebar() {
               scroll("about");
             }}
           >
-            <p title="About me"> About Me</p>
+           About Me
           </NavLink>
         </p>
         <p
@@ -84,7 +84,7 @@ export default function Slidebar() {
               scroll("resume");
             }}
           >
-            <p title="Resume">Resume</p>
+            Resume
           </NavLink>
         </p>
         <p
@@ -101,7 +101,7 @@ export default function Slidebar() {
               scroll("projects");
             }}
           >
-            <p title="Projects"> Projects</p>
+             Projects
           </NavLink>
         </p>
         <p
@@ -118,7 +118,7 @@ export default function Slidebar() {
               scroll("contact");
             }}
           >
-            <p title="Contact"> Contact</p>
+             Contact
           </NavLink>
         </p>
       </div>

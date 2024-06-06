@@ -29,27 +29,27 @@ export default function About() {
             className="text-xl lg:text-3xl font-medium"
             data-aos={"fade-left"}
           >
-            I'm <span className="text-yellow-600">Charles I Omosegbon,</span> a Web
+            I'm <span className="text-yellow-600">Charles I Omosegbon,</span> a Web and Mobile App
             Enthusiast
           </h3>
           <p
             className="pt-5 leading-7 text-slate-900 text-justify"
             data-aos={"fade-left"}
           >
-            I love playing music, reading comics. I Bachelor Degree in Public Administration, I am {getDate()}{" "}
-            years old.I love exploring new technologies.
+            I love playing music, reading comics. I have Bachelor Degree in Business Administration, I am {getDate()}{" "}
+            year old. I love exploring new technologies.
           </p>
           <p
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            I worked on reactJs, TypeScript, JavaScript, HTML, CSS, Python, Django and many more. I am
+            I worked on reactJs, TypeScript, JavaScript, HTML, CSS, React Native, Supabase and many more. I am
             also looking to collaborate in open-source projects.
           </p>
         </div>
 
         <div
-          class="relative flex-auto w-32   sm:rounded-lg  pl-4"
+          className="relative flex-auto w-32   sm:rounded-lg  pl-4"
           data-aos={"slide-left"}
         >
           {/* <img
