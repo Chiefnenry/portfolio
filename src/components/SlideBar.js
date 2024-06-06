@@ -147,7 +147,7 @@ export default function Slidebar() {
         <div
           title="Linkedin"
           onClick={() =>
-            window.open("https://www.linkedin.com/in/charles-i-omosegbon-275a41302", "_blank")
+            window.open("https://www.linkedin.com/in/charles-omosegbon-12a4a7308", "_blank")
           }
         >
           {" "}
